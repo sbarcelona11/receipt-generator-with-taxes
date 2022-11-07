@@ -74,10 +74,11 @@ Total: 98.38
 ```
 
 ## Submission
-This is a Javascript solution. 
+This is a Javascript solution.
 To run the solution, please follow the instructions below:
 
 ## How to run the solution
+Install Node.js and NPM then:
 1. Clone the repository or unzip the file
 2. Run `npm install` to install the dependencies
 3. Run `npm test` to run the tests
